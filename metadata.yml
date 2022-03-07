@@ -1,0 +1,16 @@
+---
+:id: 87943861
+:submitters:
+- :name: Zixuan Guo
+  :email: guozixua@grinnell.edu
+- :name: Asya Shneerson
+  :email: shneerso@grinnell.edu
+- :name: Hwi Jin Jang
+  :email: janghwij@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-16 00:20:41.172957000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-09-15 17:20:41.172957000 Z
+:status: processed
+:score: 100.0
